@@ -1,5 +1,9 @@
 # The World in One Page — 22 November 2026
 
+[![make.fun](https://make.fun/badge/news-image-20261122.svg)](https://make.fun/bounty/news-image-20261122)
+[![rank](https://make.fun/badge/news-image-20261122/mrfriedo1603/makefun-news-22nov-2026/rank.svg)](https://make.fun/bounty/news-image-20261122)
+[![reward](https://make.fun/badge/news-image-20261122/mrfriedo1603/makefun-news-22nov-2026/reward.svg)](https://make.fun/bounty/news-image-20261122)
+
 Entry for the make.fun bounty **"Sum up 22 November's world news in one
 image"** (`news-image-20261122`). A newspaper-style front page that sums up
 Sunday 22 November 2026 in a single 1024x1024 image.
